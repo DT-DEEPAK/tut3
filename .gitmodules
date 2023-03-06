@@ -1,3 +1,6 @@
 [submodule "tut4"]
 	path = tut4
 	url = https://github.com/DT-DEEPAK/tut4.git
+[submodule "subdir"]
+	path = subdir
+	url = C:/Program Files/Git/subdir
